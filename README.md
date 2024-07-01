@@ -1,7 +1,9 @@
 # 👋 Olá, eu sou a Camila! | Hi, I'm Camila!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camila-pereira-raimundo)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CamilaRaimundo)
-[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/camispeereira)
+
+<a href = "https://www.linkedin.com/in/camila-pereira-raimundo" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href = "https://github.com/CamilaRaimundo" target="_blank"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" ></a>
+<a href = "https://www.instagram.com/camispeereira" target="_blank"><img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href = "malito:camilaapereira.r@gmail.com"><img src="https://img.shields.io/badge/-Gmail-000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <!--
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://seu-portfolio.com)
 -->
