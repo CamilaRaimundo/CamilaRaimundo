@@ -1,11 +1,11 @@
-# Hi, welcome! 🖳
-### I'm a Front-end developer
-# 👋 Olá, Eu Sou [Seu Nome]!
-
+<!--# Hi, welcome! 
+### I'm a Front-end developer-->
+# 👋 Olá, eu sou a Camila! 🖳
+<!--
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil-linkedin)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu-usuario-github)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://seu-portfolio.com)
-
+-->
 ## 🚀 Sobre Mim
 
 ### Formação
@@ -24,8 +24,8 @@
 
 ---
 
-# 👋 Hi, I'm [Your Name]!
-
+# 👋 Hi, I'm Camila!
+<!--
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-github-username)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://your-portfolio.com)
@@ -76,7 +76,7 @@
 ---
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=your-github-username.your-github-username)
-
+-->
 
 
 <!---
